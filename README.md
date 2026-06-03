@@ -1,6 +1,7 @@
 # Navet For HACS
 
 This repository contains only the Home Assistant HACS integration packaging for Navet.
+It intentionally excludes `repository.yaml` and all Home Assistant add-on packaging files.
 
 ![Navet dashboard demo on iPad frame](https://raw.githubusercontent.com/awesomestvi/navet/main/assets/reference/marketing/use-cases/navet-ipad-frame-dashboard.jpg)
 
