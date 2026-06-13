@@ -1,24 +1,23 @@
 # Changelog
 
-## 0.7.2 - 2026-06-13
+## 0.7.3 - 2026-06-13
 
 ## New
 
-- Vacuum cards now support area cleaning and richer device-specific controls for supported Roborock models.
-- Media cards now add repeat and shuffle controls, plus better TV control handling for supported players.
-- Navet Dev is now available as a nightly add-on channel, with clearer Nightly, Beta, and Stable build labels in the app.
+- TV media dialogs now split TV controls from music playback, with clearer source badges and better compact remote layouts.
+- Home Assistant update notifications now clean up HTML-heavy release notes and surface restart-required updates more clearly.
 
 ## Fixed
 
-- Apple Music and Music Assistant artwork now appears more reliably again, including grouped-player and local-artwork cases that previously stayed blank.
-- Room assignment, media dialogs, and shared device controls now stay more readable for mixed-device dashboards with repeated names.
+- Vacuum cards now prefer the live entity state, so cleaning status and current room details stay more accurate while a run is active.
+- Room assignment dialogs now keep the intended room selected more reliably when only a fallback room name is available.
 
 ## Improved
 
-- Media cards now handle artwork, source selection, and unsupported TV controls more cleanly across different player capabilities.
-- Preview and demo runtimes now mirror more real dashboard actions, which makes release previews and local testing behave more like live integrations.
+- Dense dashboards now switch into a lighter performance mode on lower-tier or low-power devices to reduce heavy rendering work.
+- Device collection updates now preserve unchanged entries more aggressively, which cuts unnecessary dashboard rerenders during provider updates.
 
-## 0.7.1 - 2026-06-13
+## 0.7.2 - 2026-06-13
 
 ## New
 
