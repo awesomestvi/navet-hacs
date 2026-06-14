@@ -1,61 +1,61 @@
 {
   "../../packages/app/src/features/dashboard/all-view-grid/index.tsx": {
-    "file": "assets/all-view-grid-DbRhJuI3.js",
+    "file": "assets/all-view-grid-Baj428SF.js",
     "name": "all-view-grid",
     "src": "../../packages/app/src/features/dashboard/all-view-grid/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_prepared-dashboard-devices-fvLE2mBU.js"
+      "_app-shell-CykQkuo4.js",
+      "_prepared-dashboard-devices-CWI6H8ec.js"
     ]
   },
   "../../packages/app/src/features/dashboard/components/add-entity-dialog/index.tsx": {
-    "file": "assets/add-entity-dialog-D1z-rbA0.js",
+    "file": "assets/add-entity-dialog-B83FydOZ.js",
     "name": "add-entity-dialog",
     "src": "../../packages/app/src/features/dashboard/components/add-entity-dialog/index.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_prepared-dashboard-devices-fvLE2mBU.js"
+      "_app-shell-CykQkuo4.js",
+      "_prepared-dashboard-devices-CWI6H8ec.js"
     ]
   },
   "../../packages/app/src/features/dashboard/components/dashboard-card-item-draggable.tsx": {
-    "file": "assets/dashboard-card-item-draggable-BUVJJthp.js",
+    "file": "assets/dashboard-card-item-draggable-CNMIrpM5.js",
     "name": "dashboard-card-item-draggable",
     "src": "../../packages/app/src/features/dashboard/components/dashboard-card-item-draggable.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_app-shell-D9CglRYs.js"
+      "_app-shell-CykQkuo4.js"
     ]
   },
   "../../packages/app/src/features/dashboard/components/home-dashboard-overview.tsx": {
-    "file": "assets/home-dashboard-overview-DmDaR0xF.js",
+    "file": "assets/home-dashboard-overview-lH0SJuAt.js",
     "name": "home-dashboard-overview",
     "src": "../../packages/app/src/features/dashboard/components/home-dashboard-overview.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-energy-CY4nFnIx.js",
-      "_home-dashboard-overview-edit-D9knogUR.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-energy-Dr2Zo5h0.js",
+      "_home-dashboard-overview-edit-C6EvxZeG.js"
     ],
     "dynamicImports": [
-      "_home-dashboard-overview-edit-D9knogUR.js"
+      "_home-dashboard-overview-edit-C6EvxZeG.js"
     ]
   },
   "../../packages/app/src/features/tasks/components/tasks-section.tsx": {
-    "file": "assets/tasks-section-B_C1r-p1.js",
+    "file": "assets/tasks-section-CXlRKY5a.js",
     "name": "tasks-section",
     "src": "../../packages/app/src/features/tasks/components/tasks-section.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_entity-card-cover-HVZuc6He.js",
-      "_icons-vendor-BptQWzZA.js",
-      "_entity-card-lighting-ZygLg_nZ.js"
+      "_app-shell-CykQkuo4.js",
+      "_entity-card-cover-DEcXLTAK.js",
+      "_icons-vendor-hAW_T9p9.js",
+      "_entity-card-lighting-DmeOzGCu.js"
     ]
   },
   "../../packages/app/src/panel/main.tsx": {
@@ -65,13 +65,13 @@
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
+      "_app-shell-CykQkuo4.js",
       "_leaflet-vendor-DNfiAaA_.js",
-      "_icons-vendor-BptQWzZA.js",
-      "_react-vendor-GN7K92_P.js"
+      "_icons-vendor-hAW_T9p9.js",
+      "_react-vendor-BC6-xv3m.js"
     ],
     "assets": [
-      "assets/index-BTv3yxS_.css"
+      "assets/index-DjZHgl7R.css"
     ]
   },
   "/home/runner/work/navet/navet/node_modules/.pnpm/leaflet@1.9.4/node_modules/leaflet/dist/leaflet.css": {
@@ -79,283 +79,283 @@
     "src": "/home/runner/work/navet/navet/node_modules/.pnpm/leaflet@1.9.4/node_modules/leaflet/dist/leaflet.css"
   },
   "/home/runner/work/navet/navet/packages/app/src/styles/index.css": {
-    "file": "assets/index-BTv3yxS_.css",
+    "file": "assets/index-DjZHgl7R.css",
     "src": "/home/runner/work/navet/navet/packages/app/src/styles/index.css"
   },
-  "_app-shell-D9CglRYs.js": {
-    "file": "assets/app-shell-D9CglRYs.js",
+  "_app-shell-CykQkuo4.js": {
+    "file": "assets/app-shell-CykQkuo4.js",
     "name": "app-shell",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js"
     ],
     "dynamicImports": [
-      "_entity-card-calendar-DTPurabc.js",
-      "_entity-card-climate-kZDaO9S7.js",
-      "_entity-card-lighting-ZygLg_nZ.js",
-      "_entity-card-media-DNg9OgQH.js",
-      "_entity-card-person-CNeWJ1ON.js",
-      "_entity-card-scenes-DlRMOLOl.js",
-      "_entity-card-security-yhYBe1El.js",
-      "_entity-card-sensors-eTol21R1.js",
-      "_entity-card-vacuum-CqX-mx44.js",
-      "_entity-card-weather-NoTzcaF8.js",
-      "_dashboard-widget-note-BGVgBNed.js",
-      "_dashboard-widget-shared-Bt_JakRs.js",
-      "_dashboard-widget-photo-kw6mwkHz.js",
-      "_dashboard-widget-battery-DAIaW0QK.js",
-      "_dashboard-widget-energy-CY4nFnIx.js",
-      "_dashboard-widget-button-DZ4rb9s5.js",
-      "_dashboard-widget-map-BePUxeHp.js",
-      "_dashboard-widget-rss-B8xEBVBW.js",
+      "_entity-card-calendar-CocsjQjf.js",
+      "_entity-card-climate-Cz2T2kCD.js",
+      "_entity-card-lighting-DmeOzGCu.js",
+      "_entity-card-media-BWU5VFc1.js",
+      "_entity-card-person-BPU4K26b.js",
+      "_entity-card-scenes-HjoWq7cX.js",
+      "_entity-card-security-Bnn7I-ma.js",
+      "_entity-card-sensors-DoZCIIqX.js",
+      "_entity-card-vacuum-Dgj9Kfi5.js",
+      "_entity-card-weather-COKO-09h.js",
+      "_dashboard-widget-note-gzJwDuWr.js",
+      "_dashboard-widget-shared-D49GNIlg.js",
+      "_dashboard-widget-photo-CxTocKUr.js",
+      "_dashboard-widget-battery-0jwCOXt_.js",
+      "_dashboard-widget-energy-Dr2Zo5h0.js",
+      "_dashboard-widget-button-B3yxE4Dl.js",
+      "_dashboard-widget-map-sfoeIDh6.js",
+      "_dashboard-widget-rss-QgK84LSc.js",
       "../../packages/app/src/features/dashboard/components/dashboard-card-item-draggable.tsx",
       "../../packages/app/src/features/dashboard/components/add-entity-dialog/index.tsx",
       "../../packages/app/src/features/dashboard/components/home-dashboard-overview.tsx",
       "../../packages/app/src/features/tasks/components/tasks-section.tsx",
-      "_energy-Cxa4fSXJ.js",
-      "_settings-D-vDrHWH.js",
+      "_energy-C4WRc7A9.js",
+      "_settings-Dr3eDHTw.js",
       "../../packages/app/src/features/dashboard/all-view-grid/index.tsx",
       "_vendor-D_0-7oCH.js"
     ]
   },
-  "_dashboard-widget-battery-DAIaW0QK.js": {
-    "file": "assets/dashboard-widget-battery-DAIaW0QK.js",
+  "_dashboard-widget-battery-0jwCOXt_.js": {
+    "file": "assets/dashboard-widget-battery-0jwCOXt_.js",
     "name": "dashboard-widget-battery",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js"
+      "_app-shell-CykQkuo4.js"
     ],
     "dynamicImports": [
-      "_dashboard-widget-battery-DAIaW0QK.js"
+      "_dashboard-widget-battery-0jwCOXt_.js"
     ]
   },
-  "_dashboard-widget-button-DZ4rb9s5.js": {
-    "file": "assets/dashboard-widget-button-DZ4rb9s5.js",
+  "_dashboard-widget-button-B3yxE4Dl.js": {
+    "file": "assets/dashboard-widget-button-B3yxE4Dl.js",
     "name": "dashboard-widget-button",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-battery-DAIaW0QK.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-battery-0jwCOXt_.js"
     ]
   },
-  "_dashboard-widget-energy-CY4nFnIx.js": {
-    "file": "assets/dashboard-widget-energy-CY4nFnIx.js",
+  "_dashboard-widget-energy-Dr2Zo5h0.js": {
+    "file": "assets/dashboard-widget-energy-Dr2Zo5h0.js",
     "name": "dashboard-widget-energy",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-battery-DAIaW0QK.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-battery-0jwCOXt_.js"
     ]
   },
-  "_dashboard-widget-map-BePUxeHp.js": {
-    "file": "assets/dashboard-widget-map-BePUxeHp.js",
+  "_dashboard-widget-map-sfoeIDh6.js": {
+    "file": "assets/dashboard-widget-map-sfoeIDh6.js",
     "name": "dashboard-widget-map",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js"
+      "_app-shell-CykQkuo4.js"
     ],
     "dynamicImports": [
-      "_dashboard-widget-map-BePUxeHp.js"
+      "_dashboard-widget-map-sfoeIDh6.js"
     ],
     "css": [
       "assets/dashboard-widget-map-vh-t_kPv.css"
     ]
   },
-  "_dashboard-widget-note-BGVgBNed.js": {
-    "file": "assets/dashboard-widget-note-BGVgBNed.js",
+  "_dashboard-widget-note-gzJwDuWr.js": {
+    "file": "assets/dashboard-widget-note-gzJwDuWr.js",
     "name": "dashboard-widget-note",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js"
+      "_app-shell-CykQkuo4.js"
     ]
   },
-  "_dashboard-widget-photo-kw6mwkHz.js": {
-    "file": "assets/dashboard-widget-photo-kw6mwkHz.js",
+  "_dashboard-widget-photo-CxTocKUr.js": {
+    "file": "assets/dashboard-widget-photo-CxTocKUr.js",
     "name": "dashboard-widget-photo",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-battery-DAIaW0QK.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-battery-0jwCOXt_.js"
     ]
   },
-  "_dashboard-widget-rss-B8xEBVBW.js": {
-    "file": "assets/dashboard-widget-rss-B8xEBVBW.js",
+  "_dashboard-widget-rss-QgK84LSc.js": {
+    "file": "assets/dashboard-widget-rss-QgK84LSc.js",
     "name": "dashboard-widget-rss",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-battery-DAIaW0QK.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-battery-0jwCOXt_.js"
     ]
   },
-  "_dashboard-widget-shared-Bt_JakRs.js": {
-    "file": "assets/dashboard-widget-shared-Bt_JakRs.js",
+  "_dashboard-widget-shared-D49GNIlg.js": {
+    "file": "assets/dashboard-widget-shared-D49GNIlg.js",
     "name": "dashboard-widget-shared",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-battery-DAIaW0QK.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-battery-0jwCOXt_.js"
     ]
   },
-  "_energy-Cxa4fSXJ.js": {
-    "file": "assets/energy-Cxa4fSXJ.js",
+  "_energy-C4WRc7A9.js": {
+    "file": "assets/energy-C4WRc7A9.js",
     "name": "energy",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-energy-CY4nFnIx.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-energy-Dr2Zo5h0.js"
     ]
   },
-  "_entity-card-calendar-DTPurabc.js": {
-    "file": "assets/entity-card-calendar-DTPurabc.js",
+  "_entity-card-calendar-CocsjQjf.js": {
+    "file": "assets/entity-card-calendar-CocsjQjf.js",
     "name": "entity-card-calendar",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-map-BePUxeHp.js",
-      "_dashboard-widget-battery-DAIaW0QK.js",
-      "_energy-Cxa4fSXJ.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-map-sfoeIDh6.js",
+      "_dashboard-widget-battery-0jwCOXt_.js",
+      "_energy-C4WRc7A9.js"
     ]
   },
-  "_entity-card-camera-DWR0xqIz.js": {
-    "file": "assets/entity-card-camera-DWR0xqIz.js",
+  "_entity-card-camera-CYxfQmfc.js": {
+    "file": "assets/entity-card-camera-CYxfQmfc.js",
     "name": "entity-card-camera",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js"
+      "_app-shell-CykQkuo4.js"
     ],
     "dynamicImports": [
       "_media-stream-vendor-CmYn6YBw.js"
     ]
   },
-  "_entity-card-climate-kZDaO9S7.js": {
-    "file": "assets/entity-card-climate-kZDaO9S7.js",
+  "_entity-card-climate-Cz2T2kCD.js": {
+    "file": "assets/entity-card-climate-Cz2T2kCD.js",
     "name": "entity-card-climate",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-battery-DAIaW0QK.js",
-      "_energy-Cxa4fSXJ.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-battery-0jwCOXt_.js",
+      "_energy-C4WRc7A9.js"
     ]
   },
-  "_entity-card-cover-HVZuc6He.js": {
-    "file": "assets/entity-card-cover-HVZuc6He.js",
+  "_entity-card-cover-DEcXLTAK.js": {
+    "file": "assets/entity-card-cover-DEcXLTAK.js",
     "name": "entity-card-cover",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_entity-card-climate-kZDaO9S7.js"
+      "_app-shell-CykQkuo4.js",
+      "_entity-card-climate-Cz2T2kCD.js"
     ]
   },
-  "_entity-card-lighting-ZygLg_nZ.js": {
-    "file": "assets/entity-card-lighting-ZygLg_nZ.js",
+  "_entity-card-lighting-DmeOzGCu.js": {
+    "file": "assets/entity-card-lighting-DmeOzGCu.js",
     "name": "entity-card-lighting",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-shared-Bt_JakRs.js",
-      "_dashboard-widget-battery-DAIaW0QK.js",
-      "_entity-card-climate-kZDaO9S7.js",
-      "_dashboard-widget-button-DZ4rb9s5.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-shared-D49GNIlg.js",
+      "_dashboard-widget-battery-0jwCOXt_.js",
+      "_entity-card-climate-Cz2T2kCD.js",
+      "_dashboard-widget-button-B3yxE4Dl.js"
     ]
   },
-  "_entity-card-lock-CFjsCVrA.js": {
-    "file": "assets/entity-card-lock-CFjsCVrA.js",
+  "_entity-card-lock-B68hTFeh.js": {
+    "file": "assets/entity-card-lock-B68hTFeh.js",
     "name": "entity-card-lock",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_entity-card-cover-HVZuc6He.js"
+      "_app-shell-CykQkuo4.js",
+      "_entity-card-cover-DEcXLTAK.js"
     ]
   },
-  "_entity-card-media-DNg9OgQH.js": {
-    "file": "assets/entity-card-media-DNg9OgQH.js",
+  "_entity-card-media-BWU5VFc1.js": {
+    "file": "assets/entity-card-media-BWU5VFc1.js",
     "name": "entity-card-media",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-battery-DAIaW0QK.js",
-      "_dashboard-widget-photo-kw6mwkHz.js",
-      "_entity-card-cover-HVZuc6He.js",
-      "_entity-card-climate-kZDaO9S7.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-battery-0jwCOXt_.js",
+      "_dashboard-widget-photo-CxTocKUr.js",
+      "_entity-card-cover-DEcXLTAK.js",
+      "_entity-card-climate-Cz2T2kCD.js"
     ],
     "dynamicImports": [
       "../../packages/app/src/features/dashboard/components/add-entity-dialog/index.tsx",
-      "_entity-card-media-DNg9OgQH.js"
+      "_entity-card-media-BWU5VFc1.js"
     ]
   },
-  "_entity-card-person-CNeWJ1ON.js": {
-    "file": "assets/entity-card-person-CNeWJ1ON.js",
+  "_entity-card-person-BPU4K26b.js": {
+    "file": "assets/entity-card-person-BPU4K26b.js",
     "name": "entity-card-person",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js"
+      "_app-shell-CykQkuo4.js"
     ]
   },
-  "_entity-card-scenes-DlRMOLOl.js": {
-    "file": "assets/entity-card-scenes-DlRMOLOl.js",
+  "_entity-card-scenes-HjoWq7cX.js": {
+    "file": "assets/entity-card-scenes-HjoWq7cX.js",
     "name": "entity-card-scenes",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-button-DZ4rb9s5.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-button-B3yxE4Dl.js"
     ]
   },
-  "_entity-card-security-yhYBe1El.js": {
-    "file": "assets/entity-card-security-yhYBe1El.js",
+  "_entity-card-security-Bnn7I-ma.js": {
+    "file": "assets/entity-card-security-Bnn7I-ma.js",
     "name": "entity-card-security",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_entity-card-lock-CFjsCVrA.js",
-      "_entity-card-cover-HVZuc6He.js",
-      "_entity-card-camera-DWR0xqIz.js"
+      "_app-shell-CykQkuo4.js",
+      "_entity-card-lock-B68hTFeh.js",
+      "_entity-card-cover-DEcXLTAK.js",
+      "_entity-card-camera-CYxfQmfc.js"
     ],
     "dynamicImports": [
       "../../packages/app/src/features/dashboard/components/add-entity-dialog/index.tsx"
     ]
   },
-  "_entity-card-sensors-eTol21R1.js": {
-    "file": "assets/entity-card-sensors-eTol21R1.js",
+  "_entity-card-sensors-DoZCIIqX.js": {
+    "file": "assets/entity-card-sensors-DoZCIIqX.js",
     "name": "entity-card-sensors",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-shared-Bt_JakRs.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-shared-D49GNIlg.js"
     ]
   },
-  "_entity-card-vacuum-CqX-mx44.js": {
-    "file": "assets/entity-card-vacuum-CqX-mx44.js",
+  "_entity-card-vacuum-Dgj9Kfi5.js": {
+    "file": "assets/entity-card-vacuum-Dgj9Kfi5.js",
     "name": "entity-card-vacuum",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_entity-card-media-DNg9OgQH.js",
-      "_dashboard-widget-battery-DAIaW0QK.js"
+      "_app-shell-CykQkuo4.js",
+      "_entity-card-media-BWU5VFc1.js",
+      "_dashboard-widget-battery-0jwCOXt_.js"
     ]
   },
-  "_entity-card-weather-NoTzcaF8.js": {
-    "file": "assets/entity-card-weather-NoTzcaF8.js",
+  "_entity-card-weather-COKO-09h.js": {
+    "file": "assets/entity-card-weather-COKO-09h.js",
     "name": "entity-card-weather",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-battery-DAIaW0QK.js",
-      "_entity-card-climate-kZDaO9S7.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-battery-0jwCOXt_.js",
+      "_entity-card-climate-Cz2T2kCD.js"
     ]
   },
-  "_home-dashboard-overview-edit-D9knogUR.js": {
-    "file": "assets/home-dashboard-overview-edit-D9knogUR.js",
+  "_home-dashboard-overview-edit-C6EvxZeG.js": {
+    "file": "assets/home-dashboard-overview-edit-C6EvxZeG.js",
     "name": "home-dashboard-overview-edit",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_entity-card-climate-kZDaO9S7.js"
+      "_app-shell-CykQkuo4.js",
+      "_entity-card-climate-Cz2T2kCD.js"
     ]
   },
-  "_icons-vendor-BptQWzZA.js": {
-    "file": "assets/icons-vendor-BptQWzZA.js",
+  "_icons-vendor-hAW_T9p9.js": {
+    "file": "assets/icons-vendor-hAW_T9p9.js",
     "name": "icons-vendor",
     "imports": [
-      "_app-shell-D9CglRYs.js"
+      "_app-shell-CykQkuo4.js"
     ]
   },
   "_leaflet-vendor-DNfiAaA_.js": {
@@ -372,37 +372,37 @@
       "_rolldown-runtime-QTnfLwEv.js"
     ]
   },
-  "_prepared-dashboard-devices-fvLE2mBU.js": {
-    "file": "assets/prepared-dashboard-devices-fvLE2mBU.js",
+  "_prepared-dashboard-devices-CWI6H8ec.js": {
+    "file": "assets/prepared-dashboard-devices-CWI6H8ec.js",
     "name": "prepared-dashboard-devices",
     "imports": [
-      "_app-shell-D9CglRYs.js"
+      "_app-shell-CykQkuo4.js"
     ]
   },
-  "_react-vendor-GN7K92_P.js": {
-    "file": "assets/react-vendor-GN7K92_P.js",
+  "_react-vendor-BC6-xv3m.js": {
+    "file": "assets/react-vendor-BC6-xv3m.js",
     "name": "react-vendor",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js"
+      "_app-shell-CykQkuo4.js"
     ]
   },
   "_rolldown-runtime-QTnfLwEv.js": {
     "file": "assets/rolldown-runtime-QTnfLwEv.js",
     "name": "rolldown-runtime"
   },
-  "_settings-D-vDrHWH.js": {
-    "file": "assets/settings-D-vDrHWH.js",
+  "_settings-Dr3eDHTw.js": {
+    "file": "assets/settings-Dr3eDHTw.js",
     "name": "settings",
     "imports": [
       "_rolldown-runtime-QTnfLwEv.js",
-      "_app-shell-D9CglRYs.js",
-      "_dashboard-widget-photo-kw6mwkHz.js",
-      "_entity-card-cover-HVZuc6He.js",
-      "_icons-vendor-BptQWzZA.js",
-      "_energy-Cxa4fSXJ.js",
-      "_entity-card-calendar-DTPurabc.js",
-      "_entity-card-lighting-ZygLg_nZ.js"
+      "_app-shell-CykQkuo4.js",
+      "_dashboard-widget-photo-CxTocKUr.js",
+      "_entity-card-cover-DEcXLTAK.js",
+      "_icons-vendor-hAW_T9p9.js",
+      "_energy-C4WRc7A9.js",
+      "_entity-card-calendar-CocsjQjf.js",
+      "_entity-card-lighting-DmeOzGCu.js"
     ]
   },
   "_vendor-D_0-7oCH.js": {
